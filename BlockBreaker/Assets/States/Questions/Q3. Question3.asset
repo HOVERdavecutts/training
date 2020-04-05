@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f171ffca181a43f29ffb933d3a6328d, type: 3}
+  m_Name: Q3. Question3
+  m_EditorClassIdentifier: 
+  questionText: "Research has shown the first known glazed clay roof tile was used
+    in:\n \n1. China 5,000 years ago.\n2. Greece 4,000 years ago.\n3. Mesopotamia
+    3100 BC\n4. Rome 100 B.C.\n5. New Jersey 1962"
+  nextStates:
+  - {fileID: 11400000, guid: ed4c0f69776b5405bb37b393afcc9171, type: 2}
+  - {fileID: 11400000, guid: 65f2fd8e8ee1843659d6e3c51346c8fd, type: 2}
+  - {fileID: 11400000, guid: 65f2fd8e8ee1843659d6e3c51346c8fd, type: 2}
+  - {fileID: 11400000, guid: 65f2fd8e8ee1843659d6e3c51346c8fd, type: 2}
+  - {fileID: 11400000, guid: 65f2fd8e8ee1843659d6e3c51346c8fd, type: 2}

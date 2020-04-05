@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f171ffca181a43f29ffb933d3a6328d, type: 3}
+  m_Name: Q5. Question5
+  m_EditorClassIdentifier: 
+  questionText: 'What is the average lifespan of a 3-tab asphalt shingle roof?
+
+
+    1.
+    Less than 5 years.
+
+    2. 5-10 years.
+
+    3. 10-15 years.
+
+    4. 15-18 years.
+
+    5.
+    25-30 years.'
+  nextStates:
+  - {fileID: 11400000, guid: 6f89b9012a23d4eff9c9a018c8391268, type: 2}
+  - {fileID: 11400000, guid: 6f89b9012a23d4eff9c9a018c8391268, type: 2}
+  - {fileID: 11400000, guid: 6f89b9012a23d4eff9c9a018c8391268, type: 2}
+  - {fileID: 11400000, guid: 6d3083c1dbe3742649c1f24257472dd7, type: 2}
+  - {fileID: 11400000, guid: 6f89b9012a23d4eff9c9a018c8391268, type: 2}

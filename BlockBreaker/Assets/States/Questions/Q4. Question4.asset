@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f171ffca181a43f29ffb933d3a6328d, type: 3}
+  m_Name: Q4. Question4
+  m_EditorClassIdentifier: 
+  questionText: 'Which company is North America''s largest shingle manufacturer?
+
+
+    1.
+    Certain Teed
+
+    2. Tamko
+
+    3. GAF
+
+    4. IKO
+
+    5. Malarky
+
+    6. Owens
+    Corning
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 25a6b6712ac4b43929f80f650e7061df, type: 2}
+  - {fileID: 11400000, guid: 25a6b6712ac4b43929f80f650e7061df, type: 2}
+  - {fileID: 11400000, guid: 59ad44319f2eb41efbc7c4492977fca2, type: 2}
+  - {fileID: 11400000, guid: 25a6b6712ac4b43929f80f650e7061df, type: 2}
+  - {fileID: 11400000, guid: 25a6b6712ac4b43929f80f650e7061df, type: 2}
+  - {fileID: 11400000, guid: 25a6b6712ac4b43929f80f650e7061df, type: 2}

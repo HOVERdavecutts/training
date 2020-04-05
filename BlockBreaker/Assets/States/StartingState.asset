@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f171ffca181a43f29ffb933d3a6328d, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  questionText: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis
+    semper leo, eget egestas diam porta id. Integer convallis vestibulum lorem vel
+    consequat. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
+    per inceptos himenaeos. Morbi sed molestie risus. Fusce ut massa facilisis, vulputate
+    orci in, dignissim eros. Aliquam eget dapibus mi. Nunc at iaculis nisi. In eget
+    nisi et nulla dictum auctor. Vestibulum scelerisque porttitor auctor. Nullam
+    vulputate ex non blandit tempus.
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}
